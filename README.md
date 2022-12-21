@@ -22,4 +22,4 @@
 
 此方法亦适用于动态过程
 详见gif：
-![pic4](https://i.328888.xyz/2022/12/21/AEYAU.gif)
+![pic4](https://raw.githubusercontent.com/wadaxiyang/task1/main/show.gif)
