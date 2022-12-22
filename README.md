@@ -20,6 +20,13 @@
 最终效果如下：
 ![pic3](https://i.328888.xyz/2022/12/21/AE6Ec.png)
 
+
 此方法亦适用于动态过程
 详见gif：
+
 ![pic4](https://raw.githubusercontent.com/wadaxiyang/task1/main/show.gif)
+
+## 仿真视频部分
+已上传，详见`over.mp4`，根据教程已完成各部分的启动，但由于当前拉取版本为包含运行代码，未能运行。
+
+![pic5](https://i.328888.xyz/2022/12/22/Asu2p.png)
